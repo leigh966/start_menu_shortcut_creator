@@ -1,0 +1,5 @@
+- create folder for ps1 file
+- put ps1 file into folder
+- create env variable pointing to folder
+- create registry keys to add command to context menu (cannot use env variable):
+    - shell

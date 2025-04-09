@@ -1,0 +1,2 @@
+powershell -File %START_MENU_SHORTCUT_CREATOR%\smsc.ps1 "%V" "test"
+powershell -File $env:START_MENU_SHORTCUT_CREATOR\smsc.ps1 "%V" "test"
