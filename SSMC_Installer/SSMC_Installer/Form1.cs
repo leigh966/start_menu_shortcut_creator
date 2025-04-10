@@ -74,7 +74,7 @@ namespace SSMC_Installer
                 }
 
                 // fetch the files?
-                const string payloadPath = "F:\\Work\\Programming\\poweshell\\start_menu_shortcut_creator\\payload"; // change this!
+                string payloadPath = Directory.GetCurrentDirectory().ToString()+"\\payload";
 
                 // copy the files into the directory
                 CopyFiles(payloadPath, txtDestination.Text);
