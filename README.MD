@@ -2,7 +2,7 @@
 
 ## Install Instructions
 
-- Download the [latest release](https://github.com/octo-org/octo-repo/releases/latest)
+- Download the [latest release](https://github.com/leigh966/start_menu_shortcut_creator/releases/latest)
 - Extract your the downloaded zip
 - Run SSMC_Installer.exe
 - Choose the location you'd like to install to and click the Install button
